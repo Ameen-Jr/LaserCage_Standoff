@@ -1,0 +1,6 @@
+{
+  "name": "Laser Cage Standoff",
+  "description": "High-speed real-time multiplayer laser arena standoff with mobile twin-stick controls, authoritative physics, and lethal laser sights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
